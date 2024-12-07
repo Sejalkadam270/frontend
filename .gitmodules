@@ -1,0 +1,3 @@
+[submodule "hello/week1-tasks"]
+	path = hello/week1-tasks
+	url = https://github.com/Sejalkadam270/frontend.git
